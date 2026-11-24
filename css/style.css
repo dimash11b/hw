@@ -1,0 +1,17 @@
+/*Реал Мадрид сайтының ортақ стилі*/
+body{
+    font-family: Arial, sans-serif;
+    background-color:#f5f8fd;
+}
+h1 {
+    color: white;
+    background-color: #14264d;
+    padding: 12px;
+}
+a{
+    color: #1c4ccc;
+    margin-right: 16px;
+}
+p{
+    font-size: 17px;
+}
